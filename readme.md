@@ -1,5 +1,6 @@
 A Note on NuGet Packages
 ========================
+
 Usually you would have to get this package through NuGet; however one dependency in this project is the replication bundle which is stored in "packages\RavenDB.1.0.888\server\Plugins".  Due to this I've included the package rather than just the config.
 
 Starting the RavenDB Server Locally
